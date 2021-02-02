@@ -12,7 +12,7 @@
   🛢   MySQL
   🔧   Git
 
-🤝🏻 Connect with me on [![LinkedIn]][1]
+🤝🏻 Connect with me on [!LinkedIn][1]
 
 ⭐️ From Ekmel
 
