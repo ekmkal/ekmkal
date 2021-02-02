@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🙂 About Me
+🙂  About Me
 * 🤔   Exploring new technologies and developing software solutions.
 * 🔭   Currently Learning Web Development.
 * 👍   Open for project collaboration and internship opportunities.
 
-🛠 Tech Stack
+🛠  Tech Stack
 * 🌐   HTML + CSS
 * 💻   Javascript
 * 💻   Node.js
