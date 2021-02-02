@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ekmkal/ekmkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙂 About Me
+  🤔  Exploring new technologies and developing software solutions.
+  🔭  Currently Learning Web Development.
+  👍  Open for project collaboration and internship opportunities.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+  🌐   HTML + CSS
+  💻   Javascript
+  💻   Node.js
+  🛢   MySQL
+  🔧   Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝🏻 Connect with me on [![LinkedIn][1]
+
+⭐️ From Ekmel
+
+[1]: https://www.linkedin.com/in/ekmel-kalayci/
