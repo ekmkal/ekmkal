@@ -9,6 +9,7 @@
 * 🌐   HTML + CSS
 * 💻   Javascript
 * 💻   Node.js
+* 💻   React.js
 * 🛢   MySQL
 * 🔧   Git
 
