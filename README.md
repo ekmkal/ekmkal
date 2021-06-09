@@ -6,6 +6,8 @@
 * 👍   Open for project collaboration and internship opportunities.
 
 🛠  Tech Stack
+    HTML / CSS / Javascript / React.js / Node.js / MySQL / MongoDB / GIT
+
 * 🌐   HTML + CSS
 * 💻   Javascript
 * 💻   Node.js
@@ -13,8 +15,8 @@
 * 🛢   MySQL
 * 🔧   Git
 
-🤝🏻  Connect with me on [LinkedIn][1]
+Connect with me on [LinkedIn][1]
 
-⭐️  From Ekmel
+From Ekmel
 
 [1]: https://www.linkedin.com/in/ekmel-kalayci/
