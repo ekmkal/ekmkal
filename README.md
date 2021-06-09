@@ -6,14 +6,7 @@
 * 👍   Open for project collaboration and internship opportunities.
 
 🛠  Tech Stack
-    HTML / CSS / Javascript / React.js / Node.js / MySQL / MongoDB / GIT
-
-* 🌐   HTML + CSS
-* 💻   Javascript
-* 💻   Node.js
-* 💻   React.js
-* 🛢   MySQL
-* 🔧   Git
+* HTML / CSS / Javascript / React.js / Node.js / MySQL / MongoDB / GIT
 
 Connect with me on [LinkedIn][1]
 
